@@ -1,14 +1,14 @@
 <h1>📊 Data Warehouse & Analytics Project</h1>>
 
-🚀 Welcome!
+<h2>🚀 Welcome!</h2>
 
 This repository showcases a cutting-edge Data Warehousing and Analytics solution, demonstrating expertise in SQL Server, ETL processes, data modeling, and business intelligence. Designed as a professional portfolio project, it aligns with industry best practices in data engineering and analytics, providing a comprehensive approach to data-driven decision-making.
 
-🏗️ Data Architecture
+<h3>🏗️ Data Architecture</h3>
 
 The project follows the Medallion Architecture, incorporating three structured layers:
 
-🟤 Bronze Layer: Ingests raw data directly from source systems (CSV files) into an SQL Server database.
+<h4>🟤 Bronze Layer: Ingests raw data directly from source systems (CSV files) into an SQL Server database.</h4>
 
 🔄 Silver Layer: Applies data cleansing, standardization, and transformation processes to ensure data quality and consistency.
 
