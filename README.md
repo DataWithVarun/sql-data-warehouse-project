@@ -64,7 +64,11 @@ Notion: Organizing project phases and documentation.
 
 Objective: Build a scalable data warehouse in SQL Server to consolidate sales data for business intelligence and decision-making.
 
-🔹 Data Sources: Integrate data from ERP & CRM systems (CSV-based ingestion).🔹 Data Quality: Perform data cleansing and normalization to ensure consistency.🔹 Data Integration: Merge datasets into a user-friendly analytical model.🔹 Scope: Focus on latest dataset trends, no historical archiving required.🔹 Documentation: Provide detailed schema documentation for stakeholders.
+🔹 Data Sources: Integrate data from ERP & CRM systems (CSV-based ingestion).
+🔹 Data Quality: Perform data cleansing and normalization to ensure consistency.
+🔹 Data Integration: Merge datasets into a user-friendly analytical model.
+🔹 Scope: Focus on latest dataset trends, no historical archiving required.
+🔹 Documentation: Provide detailed schema documentation for stakeholders.
 
 <h2>Business Intelligence & Reporting</h2>
 
