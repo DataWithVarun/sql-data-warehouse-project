@@ -1,4 +1,4 @@
-<h1>📊 Data Warehouse & Analytics Project</h1>>
+<h1>📊 Data Warehouse & Analytics Project</h1>
 
 <h2>🚀 Welcome!</h2>
 
@@ -10,15 +10,15 @@ The project follows the Medallion Architecture, incorporating three structured l
 
 <h4>🟤 Bronze Layer: Ingests raw data directly from source systems (CSV files) into an SQL Server database.</h4>
 
-🔄 Silver Layer: Applies data cleansing, standardization, and transformation processes to ensure data quality and consistency.
+<h4>🔄 Silver Layer: Applies data cleansing, standardization, and transformation processes to ensure data quality and consistency.</h4>
 
-🏆 Gold Layer: Organizes business-ready data in a star schema, optimized for reporting and analytics.
+<h4>🏆 Gold Layer: Organizes business-ready data in a star schema, optimized for reporting and analytics.</h4>
 
-📖 Project Scope
+<h3>📖 Project Scope</h3>
 
 This project delivers a full-stack data warehouse implementation, including:
 
-📂 Data Engineering
+<h3>📂 Data Engineering</h3>
 
 Data Architecture: Implementing a modern data warehouse using SQL Server and the Medallion Architecture.
 
@@ -26,7 +26,7 @@ ETL Pipelines: Developing efficient extraction, transformation, and loading (ETL
 
 Data Modeling: Designing optimized fact and dimension tables to support analytical queries.
 
-📊 Business Intelligence & Analytics
+<h3>📊 Business Intelligence & Analytics</h3>
 
 SQL-based Analytics: Generating insights on customer behavior, product performance, and sales trends.
 
@@ -34,7 +34,7 @@ Reporting & Dashboards: Utilizing Power BI, Tableau, or Looker to create interac
 
 Key Business Metrics: Empowering stakeholders with actionable insights for data-driven strategies.
 
-🎯 Ideal for Professionals Seeking Roles in:
+<h3>🎯 Ideal for Professionals Seeking Roles in:</h3>
 
 ✅ Data Engineering
 
@@ -46,7 +46,7 @@ Key Business Metrics: Empowering stakeholders with actionable insights for data-
 
 ✅ Business Intelligence & Analytics
 
-🛠️ Tools & Technologies Used:
+<h3>🛠️ Tools & Technologies Used:</h3>
 
 SQL Server Express: Lightweight database for local development.
 
@@ -58,15 +58,15 @@ Draw.io: Designing data architecture, models, and workflows.
 
 Notion: Organizing project phases and documentation.
 
-📌 Project Requirements
+<h2>📌 Project Requirements</h2>
 
-Data Engineering
+<h3>Data Engineering</h3>
 
 Objective: Build a scalable data warehouse in SQL Server to consolidate sales data for business intelligence and decision-making.
 
 🔹 Data Sources: Integrate data from ERP & CRM systems (CSV-based ingestion).🔹 Data Quality: Perform data cleansing and normalization to ensure consistency.🔹 Data Integration: Merge datasets into a user-friendly analytical model.🔹 Scope: Focus on latest dataset trends, no historical archiving required.🔹 Documentation: Provide detailed schema documentation for stakeholders.
 
-Business Intelligence & Reporting
+<h2>Business Intelligence & Reporting</h2>
 
 Objective: Develop SQL-based analytical insights for:
 
@@ -76,17 +76,17 @@ Objective: Develop SQL-based analytical insights for:
 
 💰 Sales trend forecasting
 
-For detailed requirements, refer to docs/requirements.md.
+<h2>For detailed requirements, refer to docs/requirements.md.</h2>
 
-📜 License
+<h3>📜 License</h3>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 I am a data engineer and analytics professional passionate about designing scalable, high-performance data solutions. My expertise spans data warehousing, ETL development, and advanced analytics using SQL Server, Python, and BI tools.
 
-Connect with me:
+<h3>Connect with me:</h3>
 
 🏠 GitHub: DataWithVarun
 
