@@ -14,6 +14,7 @@ The project follows the Medallion Architecture, incorporating three structured l
 
 <h4>🏆 Gold Layer: Organizes business-ready data in a star schema, optimized for reporting and analytics.</h4>
 
+
 <h3>📖 Project Scope</h3>
 
 This project delivers a full-stack data warehouse implementation, including:
@@ -26,6 +27,7 @@ ETL Pipelines: Developing efficient extraction, transformation, and loading (ETL
 
 Data Modeling: Designing optimized fact and dimension tables to support analytical queries.
 
+
 <h3>📊 Business Intelligence & Analytics</h3>
 
 SQL-based Analytics: Generating insights on customer behavior, product performance, and sales trends.
@@ -33,6 +35,7 @@ SQL-based Analytics: Generating insights on customer behavior, product performan
 Reporting & Dashboards: Utilizing Power BI, Tableau, or Looker to create interactive visualizations.
 
 Key Business Metrics: Empowering stakeholders with actionable insights for data-driven strategies.
+
 
 <h3>🎯 Ideal for Professionals Seeking Roles in:</h3>
 
@@ -46,6 +49,7 @@ Key Business Metrics: Empowering stakeholders with actionable insights for data-
 
 ✅ Business Intelligence & Analytics
 
+
 <h3>🛠️ Tools & Technologies Used:</h3>
 
 SQL Server Express: Lightweight database for local development.
@@ -57,6 +61,7 @@ Git & GitHub: Version control and collaboration.
 Draw.io: Designing data architecture, models, and workflows.
 
 Notion: Organizing project phases and documentation.
+
 
 <h2>📌 Project Requirements</h2>
 
@@ -89,6 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <h3>👨‍💻 About Me</h3>
 
 I am a data engineer and analytics professional passionate about designing scalable, high-performance data solutions. My expertise spans data warehousing, ETL development, and advanced analytics using SQL Server, Python, and BI tools.
+
 
 <h3>Connect with me:</h3>
 
