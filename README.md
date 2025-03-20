@@ -1,4 +1,4 @@
-📊 Data Warehouse & Analytics Project
+<h1>📊 Data Warehouse & Analytics Project</h1>>
 
 🚀 Welcome!
 
